@@ -110,3 +110,9 @@ A ferramenta apresentada e sugerida para concluir este desafio foi o Lovable, ma
 
 [FinanChat](https://financhat-898025110906.us-west1.run.app)
 
+<p align="center">
+<img 
+    src="https://github.com/djsouza87/dio-lab-vibe-coding-app-financas/blob/main/Captura.png?raw=true"
+    width="300"
+/>
+</p>
