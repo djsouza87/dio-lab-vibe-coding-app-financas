@@ -87,3 +87,26 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Entrega do Desafio
+
+Projeto com o objetivo de gerar um app de finanças utilizando ferramentas de Vibe Coding.
+
+O app desenvolvido chama-se "FinanChat" e permite controlar as finanças pessoais de maneira simples utilizando chat com IA para inclusão de receitas, despesas e manutenção de metas.
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [Microsoft Copilot](https://copilot.microsoft.com/) 
+- [Google Stitch](https://stitch.withgoogle.com/)
+- [Google AI Studio](https://aistudio.google.com/)
+
+## ✨ Como foi feito?
+
+O PRD (Product Requirements Document) disponibilizado no desafio foi utilizado para iniciar as interações de refinamento dentro do Microsoft Copilot. Após finalizar as alterações este documento foi utilizado como prompt inicial dentro do Google Stitch para definir o design das telas do app e ter um preview de algumas funções. Depois de definido o design do app, exportei as imagens das telas e seus respectivos códigos HTML para o Google AI Studio para construir o app e suas funcionalidades.
+A ferramenta apresentada e sugerida para concluir este desafio foi o Lovable, mas em sua versão gratuita eu demoraria muitos dias para chegar no resultado que consegui com o Google AI Studio por conta da limitação de utilização de créditos da plataforma. Foram algumas horas de interações e testes para deixar o app com a cara que está, e dá pra melhorar mais ainda no futuro.
+
+## 💸 Resultado
+
+[FinanChat](https://financhat-898025110906.us-west1.run.app)
+
